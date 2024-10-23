@@ -99,3 +99,17 @@ sites.google.com/site/unblockurgames
 ||instagram.com^
 ||cl.pinterest.com^
 ||pinterest.com^
+||tetris.com^
+||tetr.io^
+||tetrismania.net^
+||freetetris.org^
+||pacmangratis.net^
+||geometrydashwave.com^
+||playhop.com^
+||geometrydashwave.io^
+||geometrydash-3d.com^
+||geometrydash-game.io^
+||geometrydashwave.io^
+||geometrygame.org^
+||geometry-lite.io^
+||geometry-dashonline.io^
