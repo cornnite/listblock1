@@ -47,7 +47,7 @@ sites.google.com/site/unblockurgames
 ||ufreegames.com^
 ||juegosmax.co^
 ||mybestgames.dk^
-||www.freegame.gg^
+||freegame.gg^
 ||frivclasico.co^
 ||juegosfriv2017.net^
 ||frivantiguo.net^
@@ -76,7 +76,7 @@ sites.google.com/site/unblockurgames
 ||smashkarts.io^
 ||smash-karts.org^
 ||smashkartsonline.github.io^
-||www.topgames.com^
+||topgames.com^
 ||cokitos.com^
 ||classic.minecraft.net^
 ||minecraft.net^
@@ -98,3 +98,4 @@ sites.google.com/site/unblockurgames
 ||tiktok.com^
 ||instagram.com^
 ||cl.pinterest.com^
+||pinterest.com^
